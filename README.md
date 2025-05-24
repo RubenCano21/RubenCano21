@@ -13,3 +13,6 @@ Web developer passionate about technology. I love innovative solutions and learn
 <br/>
 [![TikTok](https://img.shields.io/badge/TikTok-@canoruben-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@cr_21canito)
 [![Facebook](https://img.shields.io/badge/Facebook-@canoruben-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/canito21?locale=es_LA)
+
+## 🛠 Skills
+Javascript, HTML, CSS...
